@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (max-width:650px){
+    body{
+        background-color: black;
+        color: white;
+        font-family: "Comic Sans MS","Comic Sans","cursive";  
+    }
+}
+  
+header {
+    background-color: #4CAF50;
+    color: lavender;
+    padding: 10px 0;
+    text-align: center;
+}
+  
+main {
+    padding: 20px;
+}
+
+footer {
+    margin-left: 50px;
+}
+  
+.container {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid rgb(154, 128, 240);
+    border-radius: 5px;
+}
+  
